@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Khush%20Vachhani&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Community%20Builder&descAlignY=58&descSize=15&descColor=a5b4fc" width="100%" alt="header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=640&lines=Building+scalable+fullstack+products+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Docker;GDG+Rajkot+Organizer+%7C+400%2B+devs+reached+%F0%9F%8C%8D;Open+Source+Contributor+%E2%9C%A8;Open+to+Remote+Opportunities+%F0%9F%8C%90)](https://khush.pro)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=818CF8&center=true&vCenter=true&width=640&lines=Building+scalable+fullstack+products+%F0%9F%9A%80;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Docker;GDG+Rajkot+Marketing+Lead%20%7C+400%2B+devs+reached+%F0%9F%8C%8D;Open+Source+Contributor+%E2%9C%A8;Open+to+Remote+Opportunities+%F0%9F%8C%90)](https://khush.pro)
 
 </div>
 
@@ -59,49 +59,45 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapvm4444&layout=compact&langs_count=8&card_width=320&theme=radical" alt="languages"/>
 
-
-
 ---
 
-## 🧭 At a Glance
+## 🧭 By the Numbers
 
-<table width="100%">
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Dev-818cf8?style=for-the-badge&labelColor=1e1b4b" alt="Role"/>
-<br/><sub>React · Node.js · Docker</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Company-iDestiny%20Tech%20Lab-6366f1?style=for-the-badge&labelColor=1e1b4b" alt="Company"/>
-<br/><sub>Intern · 2025–2026</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Community-GDG%20Rajkot-4285F4?style=for-the-badge&logo=google&labelColor=0d1117" alt="GDG"/>
-<br/><sub>Marketing Lead · 400+ devs</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Open%20To-Remote%20Roles-22c55e?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
-<br/><sub>Fullstack · Frontend</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Degree-B.Tech%20CS-f59e0b?style=for-the-badge&labelColor=0d1117" alt="Degree"/>
-<br/><sub>Graduating 2026</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Location-Rajkot%2C%20India-ec4899?style=for-the-badge&labelColor=0d1117" alt="Location"/>
-<br/><sub>GMT+5:30</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Portfolio-khush.pro-ffffff?style=for-the-badge&logo=stackblitz&logoColor=black&labelColor=e2e8f0" alt="Portfolio"/>
-<br/><sub>Live work</sub>
-</td>
-<td align="center">
-<img src="https://komarev.com/ghpvc/?username=kapvm4444&color=818cf8&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
-<br/><sub>Real-time counter</sub>
-</td>
-</tr>
+<table width="100%" align="center">
+    <tr>
+        <td align="center" width="25%">
+            <h3>🏗️</h3>
+            <strong>1+</strong><br/>
+            <sub>Years Building</sub>
+        </td>
+        <td align="center" width="25%">
+            <h3>🎤</h3>
+            <strong>10+</strong><br/>
+            <sub>Events Organized</sub>
+        </td>
+        <td align="center" width="25%">
+            <h3>👥</h3>
+            <strong>400+</strong><br/>
+            <sub>Developers Reached</sub>
+        </td>
+        <td align="center" width="25%">
+            <h3>📦</h3>
+            <strong>20+</strong><br/>
+            <sub>GitHub Projects</sub>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" colspan="2">
+            <h3>🎓</h3>
+            <strong>Education</strong><br/>
+            <sub>B.Tech Computer Science · Graduating 2026</sub>
+        </td>
+        <td align="center" colspan="2">
+            <h3>📍</h3>
+            <strong>Location</strong><br/>
+            <sub>Rajkot, India · GMT+5:30</sub>
+        </td>
+    </tr>
 </table>
 
 ---
@@ -118,7 +114,7 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 ## 🌍 GDG Rajkot — Community
 
 ![GDG](https://img.shields.io/badge/Google%20Developer%20Groups-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Role](https://img.shields.io/badge/Organizer%20%26%20Content%20Manager-34A853?style=for-the-badge)
+![Role](https://img.shields.io/badge/Organizer%20%26%20Marketing%20Lead-34A853?style=for-the-badge)
 ![Events](https://img.shields.io/badge/10%2B%20Events-EA4335?style=for-the-badge)
 ![Reach](https://img.shields.io/badge/400%2B%20Developers%20Reached-FBBC04?style=for-the-badge)
 
@@ -132,10 +128,10 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/khush.pro-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://khush.pro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushvachhani)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapvm4444@gmail.com)
-[![GDG Rajkot](https://img.shields.io/badge/GDG%20Rajkot-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-rajkot/)
+[![Portfolio](https://img.shields.io/badge/khush.pro-000000?&logo=vercel&logoColor=white)](https://khush.pro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushvachhani)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:kapvm4444@gmail.com)
+[![GDG Rajkot](https://img.shields.io/badge/GDG%20Rajkot-4285F4?&logo=google&logoColor=white)](https://gdg.community.dev/gdg-rajkot/)
 
 💬 Available for **remote fullstack & frontend opportunities**
 

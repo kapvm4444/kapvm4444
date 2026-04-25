@@ -59,6 +59,8 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapvm4444&layout=compact&langs_count=8&card_width=320&theme=radical" alt="languages"/>
 
+
+
 ---
 
 ## 🧭 At a Glance
@@ -145,50 +147,4 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
-
----
-
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-⚙️  SETUP CHECKLIST
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-1. PROFILE REPO
-   Go to github.com/new → name it "kapvm4444" (exact match to username)
-   Make it Public, check "Add a README", then replace with this file.
-
-2. FEATURED PROJECTS
-   Replace REPO_NAME_1 → REPO_NAME_4 with your actual repo names.
-
-3. SNAKE ANIMATION
-   Create .github/workflows/snake.yml in your profile repo with:
-
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_token: ${{ secrets.GITHUB_TOKEN }}
-             outputs: |
-               dist/github-contribution-grid-snake.svg
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v3
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   Then: Actions tab → Run workflow → snake appears in ~1 min.
-
-4. LINKEDIN
-   Update slug if yours differs from "khushvachhani"
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
--->
+</div>

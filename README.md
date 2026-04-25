@@ -128,7 +128,7 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/khush.pro-000000?&logo=vercel&logoColor=white)](https://khush.pro)
+[![Portfolio](https://img.shields.io/badge/khush.pro-000000?&logo=circle&logoColor=white)](https://khush.pro)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?&logo=linkedin&logoColor=white)](https://linkedin.com/in/khushvachhani)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?&logo=gmail&logoColor=white)](mailto:kapvm4444@gmail.com)
 [![GDG Rajkot](https://img.shields.io/badge/GDG%20Rajkot-4285F4?&logo=google&logoColor=white)](https://gdg.community.dev/gdg-rajkot/)

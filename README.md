@@ -53,9 +53,11 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 [//]: # (![Analytics]&#40;https://repobeats.axiom.co/api/embed/da1c940f0135aece8b9942f518b44dacc39bd9ce.svg&#41;)
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kapvm4444&theme=radical&show_icons=true&rank_icon=github" />
+<img src="https://raw.githubusercontent.com/kapvm4444/kapvm4444/output/github-contribution-grid-snake-dark.svg" alt="Heatmap"/>
 
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapvm4444&layout=compact&langs_count=8&card_width=320&theme=radical" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kapvm4444&theme=radical&show_icons=true&rank_icon=github"  alt="Status"/>
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapvm4444&layout=compact&langs_count=8&card_width=320&theme=radical" alt="languages"/>
 
 ---
 
@@ -104,8 +106,8 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 
 ## 🔭 Currently Working On
 
-| Company                                                             | Stack                                | Status |
-|---------------------------------------------------------------------|--------------------------------------|---|
+| Company                                                             | Stack                                | Status    |
+|---------------------------------------------------------------------|--------------------------------------|-----------|
 | **iDestiny Internship** — Production fullstack app                  | MERN Stack · NextJS · Docker · Nginx | 🟢 Active |
 | **GDG Rajkot, Marketing Lead** — Organize events for the developers | N/A                                  | 🟢 Active |
 
@@ -133,7 +135,7 @@ I build with **React / Next.js** on the frontend, **Node.js + Express** on the b
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kapvm4444@gmail.com)
 [![GDG Rajkot](https://img.shields.io/badge/GDG%20Rajkot-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://gdg.community.dev/gdg-rajkot/)
 
-> 💬 Available for **remote fullstack & frontend opportunities**
+💬 Available for **remote fullstack & frontend opportunities**
 
 </div>
 
